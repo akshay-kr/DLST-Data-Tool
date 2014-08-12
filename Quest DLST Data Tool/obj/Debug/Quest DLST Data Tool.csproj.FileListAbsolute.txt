@@ -1,0 +1,17 @@
+c:\users\akki\documents\visual studio 2012\Projects\Quest DLST Data Tool\Quest DLST Data Tool\bin\Debug\Quest DLST Data Tool.exe.config
+c:\users\akki\documents\visual studio 2012\Projects\Quest DLST Data Tool\Quest DLST Data Tool\bin\Debug\Quest DLST Data Tool.exe
+c:\users\akki\documents\visual studio 2012\Projects\Quest DLST Data Tool\Quest DLST Data Tool\bin\Debug\Quest DLST Data Tool.pdb
+c:\users\akki\documents\visual studio 2012\Projects\Quest DLST Data Tool\Quest DLST Data Tool\obj\Debug\Quest DLST Data Tool.csprojResolveAssemblyReference.cache
+c:\users\akki\documents\visual studio 2012\Projects\Quest DLST Data Tool\Quest DLST Data Tool\obj\Debug\Quest_DLST_Data_Tool.Form1.resources
+c:\users\akki\documents\visual studio 2012\Projects\Quest DLST Data Tool\Quest DLST Data Tool\obj\Debug\Quest_DLST_Data_Tool.Properties.Resources.resources
+c:\users\akki\documents\visual studio 2012\Projects\Quest DLST Data Tool\Quest DLST Data Tool\obj\Debug\Quest DLST Data Tool.csproj.GenerateResource.Cache
+c:\users\akki\documents\visual studio 2012\Projects\Quest DLST Data Tool\Quest DLST Data Tool\obj\Debug\Quest DLST Data Tool.exe
+c:\users\akki\documents\visual studio 2012\Projects\Quest DLST Data Tool\Quest DLST Data Tool\obj\Debug\Quest DLST Data Tool.pdb
+C:\Users\akki\Documents\Visual Studio 2012\Projects\Quest DLST Data Tool\Quest DLST Data Tool\bin\Debug\CommandLine.dll
+C:\Users\akki\Documents\Visual Studio 2012\Projects\Quest DLST Data Tool\Quest DLST Data Tool\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\akki\Documents\Visual Studio 2012\Projects\Quest DLST Data Tool\Quest DLST Data Tool\bin\Debug\EntityFramework.dll
+C:\Users\akki\Documents\Visual Studio 2012\Projects\Quest DLST Data Tool\Quest DLST Data Tool\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\akki\Documents\Visual Studio 2012\Projects\Quest DLST Data Tool\Quest DLST Data Tool\bin\Debug\CommandLine.xml
+C:\Users\akki\Documents\Visual Studio 2012\Projects\Quest DLST Data Tool\Quest DLST Data Tool\bin\Debug\EntityFramework.xml
+C:\Users\akki\Documents\Visual Studio 2012\Projects\Quest DLST Data Tool\Quest DLST Data Tool\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\akki\Documents\Visual Studio 2012\Projects\Quest DLST Data Tool\Quest DLST Data Tool\obj\Debug\Quest DLST Data Tool.csproj.ResolveComReference.cache
